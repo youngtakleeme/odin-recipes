@@ -1,4 +1,4 @@
 # odin-recipes
 
-My first odin html project!
-It's gonna be a basic recipe website
+First odin html project!
+A toy HTML website for showcasing recipes of korean food
